@@ -1,2 +1,2 @@
 # Sistema-de-aprovacao
- Média e freguência do aluno
+ Treinamento em linguagem C - Média e freguência do aluno
