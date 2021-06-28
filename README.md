@@ -1,3 +1,3 @@
 # Sistema de aprovação:
- Média e freguência do aluno
+ Média e frequência do aluno
  <img src="Fluxograma.png">;
